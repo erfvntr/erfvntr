@@ -1,4 +1,4 @@
-# Hi, I'm Olena 👋
+# Hi, I'm Olena!
 
 I'm a Computer Science student interested in Machine Learning, Data Science and Artificial Intelligence.
 
