@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Olena 👋
 
-<!--
-**erfvntr/erfvntr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in Machine Learning, Data Science and Artificial Intelligence.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Pandas | NumPy | Scikit-learn | PyTorch | Streamlit | Git | Flask | Docker | SciPy
+
+## About me
+*  I'm learning the Python programming language, I'm trying to learn as many different libraries related to my field as I can that cover different topics 
+*  Сurrently learning NLP basics and pursuing Data Science course on Udemy
+*  I am also in math
+
+## Contacts
+You can find me on:
+Gmail: patsan.olena@gmail.com
+Telegram: @cheburator_69
