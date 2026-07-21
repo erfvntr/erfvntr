@@ -13,5 +13,4 @@ Python | Pandas | NumPy | Scikit-learn | PyTorch | Streamlit | Git | Flask | Doc
 
 ## Contacts
 You can find me on:
-*  Gmail: patsan.olena@gmail.com
-*  Telegram: @cheburator_69
+*  LinkedIn: https://www.linkedin.com/in/olena-patsan-73bba7272/
